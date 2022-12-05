@@ -105,4 +105,9 @@
     font-size: 12px;
     background-color: var(--primary);
     color: var(--secondary);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
 }
